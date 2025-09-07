@@ -15,8 +15,6 @@ LeetCode-Problems/
 │ └── MedianOfTwoSortedArrays.java
 └── README.md
 
-yaml
-Copy code
 
 - **Easy** → Contains easy-level problems.  
 - **Medium** → Contains medium-level problems.  
